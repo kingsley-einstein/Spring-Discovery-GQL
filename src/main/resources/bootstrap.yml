@@ -1,0 +1,9 @@
+
+server:
+  port: 9800
+spring:
+  application:
+    name: discovery-service
+  cloud:
+    config:
+      uri: http://localhost:8566
