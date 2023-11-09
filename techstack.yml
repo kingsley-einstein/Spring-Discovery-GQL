@@ -1,0 +1,44 @@
+repo_name: kingsley-einstein/Spring-Discovery-GQL
+report_id: 4114d951ffa1ebb26acdf8d370169341
+repo_type: Public
+timestamp: '2023-11-09T19:59:06+00:00'
+requested_by: kingsley-einstein
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  version: '1.8'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: pom.xml
+  detection_source: pom.xml
+  last_updated_by: Kingsley Victor
+  last_updated_on: 2019-08-26 12:32:08.000000000 Z
+- name: Spring Cloud
+  description: Spring helps development teams everywhere build simple, portable,fast
+    and flexible JVM-based systems and applications.
+  website_url: https://spring.io/projects/spring-cloud
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5494/default_b403ef08976083aea6d4caf5a4f19f3325c751e5.png
+  detection_source: pom.xml
+  last_updated_by: Kingsley Victor
+  last_updated_on: 2019-08-26 12:32:08.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
